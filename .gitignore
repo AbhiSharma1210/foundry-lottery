@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+# ignore broadcast and lib as well
+broadcast/
+
+
